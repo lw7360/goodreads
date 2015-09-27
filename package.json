@@ -1,11 +1,11 @@
 {
-  "name": "goodreads.js",
+  "name": "greatreads",
   "version": "0.0.1",
   "description": "Node wrapper for Goodreads API",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lw7360/goodreads.git"
+    "url": "git+https://github.com/lw7360/greatreads.git"
   },
   "keywords": [
     "goodreads"
@@ -13,9 +13,9 @@
   "author": "Larry Wu <lw7360@gmail.com> (http://larrywu.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lw7360/goodreads/issues"
+    "url": "https://github.com/lw7360/greatreads/issues"
   },
-  "homepage": "https://github.com/lw7360/goodreads#readme",
+  "homepage": "https://github.com/lw7360/greatreads#readme",
   "dependencies": {
     "axios": "^0.6.0",
     "bluebird": "^2.10.1"

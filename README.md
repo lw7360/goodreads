@@ -1,4 +1,4 @@
-# goodreads
+# greatreads
 Node wrapper for Goodreads API
 
-### Really incomplete for now
+### Really incomplete
